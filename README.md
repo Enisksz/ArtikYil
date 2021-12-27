@@ -1,0 +1,2 @@
+# ArtikYil
+Artık yıl hesabı
